@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+backend/.env
+
+# Production build
+frontend/dist/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Vite temp files
+.vite/
+
+# TypeScript
+*.tsbuildinfo
