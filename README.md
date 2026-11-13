@@ -2,7 +2,8 @@
 
 A real-time Android device monitoring dashboard that pulses system stats from your phone to your browser. Built for the Samsung J7 Max, but works with any ADB-connected Android device.
 
-![Dashboard Screenshot](./dist/assets/react-refresh-light.svg)
+![Dashboard Screenshot]<img  height="410" alt="{F9EECFEB-DF9C-409D-A419-AE54F7190A90}" src="https://github.com/user-attachments/assets/99894add-83d0-41a7-89f4-3f567fd3586c" />
+
 
 ## What It Does
 
